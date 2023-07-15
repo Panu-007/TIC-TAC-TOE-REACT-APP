@@ -1,0 +1,17 @@
+
+*{
+   box-sizing: border-box;
+}
+
+body{
+  margin: 0;
+  background-color: #9DB2BF;
+  font-family: "Fredoka", sans-serif;
+}
+
+.gameHeader
+{
+  font-size: 4rem;
+  color: lightgoldenrodyellow;
+  text-align: center;
+}
